@@ -5,6 +5,7 @@
 ```
 go build -o homekit.bin main.go
 chmod +x ./homekit.bin
+./homekit.bin
 #auto mkdir all dir
 #自动创建所有文件夹
 ```
